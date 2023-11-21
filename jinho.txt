@@ -1,6 +1,9 @@
 test 1
 사용자 2
 Hi jinho
+<<<<<<< HEAD
+HIHI
+=======
 coco
 coco
 coco
@@ -32,3 +35,4 @@ int main(){
 
     cout<<a<<b<<endl;
 }
+>>>>>>> cde19820736102a6268283d54909d5dbcbbbc246
