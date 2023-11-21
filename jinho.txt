@@ -10,3 +10,25 @@ in to the snow
 #include <iostream>
 #include <fstream>
 using namespace std;
+
+int main(){
+
+    int a, b ,c;
+
+    a = b+c;
+
+    b= a +c;
+    c = b + c;
+
+    int abc(){
+        a = a -b;
+        b = b -c;
+        c = c -a;
+    }
+
+    cout<<a<<b<<c<<endl;
+
+    cout<<b<<c;
+
+    cout<<a<<b<<endl;
+}
